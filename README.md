@@ -1,4 +1,4 @@
 # tools
 useful program tools
 ## list
-1. mp42mp3.bat - video to audio
+1. video2audio.bat - video to audio, format: mp4, avi, wmv, m4v, flv, rm, mov, rmvb
